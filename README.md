@@ -15,6 +15,7 @@ To run this code the following files should be provided:
 * A fasta file containing whole genome sequences named database_sequences.fa
 * A fasta file containing gene sequences named gene_sequences.fa
 If you want to use different file names then the code in the script blast.sh found in Gene_Distribution_Pipeine/Blast/Code needs to be changed.
+Example data can be found in the Example_Data subdirectory.
 
 ## Pipeline
 1. Blast: Performs Blast
